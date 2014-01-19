@@ -31,6 +31,8 @@ local.properties
 # IntelligJ
 .idea
 
+# Vert.X
+mod
 
 #################
 ## Visual Studio
